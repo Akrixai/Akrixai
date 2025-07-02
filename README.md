@@ -41,7 +41,7 @@
 
 ## 📢 Contact & Links
 
-* 🌐 **Website**: [students.akrix.ai](https://students.akrix.ai)
+* 🌐 **Website**: [students.akrix.ai](https://akrixai-scholarspace.netlify.app)
 * 📝 **Submit a Project**: [Google Form](https://forms.gle/9uWfQxBteXk4KkU69)
 * 📅 **Book Mentoring**: [Calendly](https://calendly.com/akrix-ai/scholerspace-discussion)
 * 📧 **Email**: [akrix.ai@gmail.com](mailto:akrix.ai@gmail.com)
