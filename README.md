@@ -1,4 +1,4 @@
-# ScholarSpace by Akrix.ai 🚀
+# Akrix.ai 🚀
 
 ![ScholarSpace Banner](https://via.placeholder.com/800x200/0E0B1D/FFFFFF?text=ScholarSpace+%7C+Where+Tomorrow%27s+Coders+Meet+Ambition)
 
